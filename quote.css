@@ -1,0 +1,32 @@
+body {
+  background: dimgray;
+}
+
+#bt {
+  position: absolute;
+  top: 70%;
+  left: 32%;
+  color: white;
+  font-size: 35px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: lightblue;
+  border: none;
+  border-radius: 10px;
+}
+
+#bq {
+  margin-top: 400px;
+  color: white;
+  font-size: 40px;
+  outline: 7px solid brown;
+  outline-offset: 20px;
+}
+
+#ct {
+  color: white;
+  font-size: 30px;
+  margin-left: 45px;
+}
